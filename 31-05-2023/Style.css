@@ -1,0 +1,28 @@
+h1{
+    font-size:60px;
+    color: #c78b36;
+    text-align: center;
+}
+.text{
+    line-height: 25px;
+    text-align: center;
+    justify-content: center;
+    margin: -30px 335px 0 335px;
+    font-weight: 600;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+img{
+    height: 200px;
+    width: 250px;
+}
+.ibox{
+    margin-right:10px;
+    text-align: center;
+}
+.Price{
+    color: #FF9A0e;
+}
