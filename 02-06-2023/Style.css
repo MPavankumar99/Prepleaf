@@ -1,0 +1,35 @@
+*{
+    background-color: rgb(246, 246, 246)
+}
+.container{
+    width: 1300px;
+    margin-inline: auto;
+}
+h2,p{
+    text-align: center;
+    background: white;
+}
+
+.row{
+    display: flex;  
+    margin: 2px 0 0 5px; 
+}
+button{
+    padding: 5px 15px;
+    background-color: #81d4fa;
+    border: none;
+    display: block;
+    margin-inline: auto;
+    margin-bottom: 20px;
+}
+img{
+    width: 400px;
+    margin-bottom: 20px;
+}
+.movie{
+    margin: 2px 4px -8px 2px;
+    text-align: center;
+    background: white;
+    border: 1px solid rgb(230, 229, 229);
+    margin: 5px 5px 5px 5px;
+}
